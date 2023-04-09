@@ -1,0 +1,100 @@
+h3{
+    font-size: 41px;
+margin: 20px;
+  margin-left: 20px;
+margin-left: 339px;
+font-weight: revert-layer;
+
+}
+.a{
+  position: relative;
+  left: 245px;
+  top: 84px;
+}
+
+.b{
+  position: relative;
+left: 800px;
+top: -120px;
+}
+.c{
+  position: relative;
+left: 215px;
+top: 58px;
+}
+.d{
+  position: relative;
+left: 815px;
+top: -89px;
+}
+.e{
+  position: relative;
+  left: 197px;
+}
+.f{
+  position: relative;
+left: 795px;
+top: -169px;
+}
+.btn{
+  font-size: 22px;
+background-color: blue;
+color: white;
+border: 2px solid black;
+border-radius: 9px;
+cursor: pointer;
+}
+h1{
+  position: relative;
+left: 420px;
+top: -118px;
+font-size: 51px;
+}
+.footer1{
+  background-color: #05050f;
+color: white;
+height: 250px;
+width: 100%;
+margin-top: 0vh;
+padding: 70px 0px;
+  
+}
+.footer1 a{
+  color: white;
+}
+
+.container{
+  max-width: 1170px;
+  margin: auto;
+  margin-top: -36px;
+  font-size: 30px;
+
+}
+.row{
+  display: flex;
+  flex-wrap: wrap;
+}
+ul{
+  list-style: none;
+}
+.footer-col{
+  width: 25%;
+  padding: 0 15px;
+}
+.social-links1{
+  position: relative;
+  left: 1108px;
+  top: -345px;
+
+}
+.social-links2{
+  position: relative;
+  left: 856px;
+  top: -348px;
+}
+h5{
+  position: relative;
+  font-size: 34px;
+  left: 545px;
+}
+

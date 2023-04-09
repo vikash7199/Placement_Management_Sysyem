@@ -1,0 +1,47 @@
+body{
+      background-color: white;
+}
+h1{
+    margin-top: 2px;
+margin-left: 513px;
+font-size: 52px;
+color: black;
+}
+.middle{
+    background-color: aqua;
+    height: 600px;
+    width: 645px;
+    position: relative;
+    left: 367px;
+    /* text-align: center; */
+    padding-left: 3px;
+}
+p{
+    font-size: 26px;
+margin-top: 26px;
+margin-left: 52px;
+position: relative;
+top: 10px;
+text-align: center;
+}
+.form form ul li{
+    list-style: none;
+    margin: 4px;
+    height: 40px;
+    width: 800px;
+} 
+.a{
+    height: 30px;
+    font-size: 20px;
+    width: 60%;
+    
+}
+.btn2{
+    margin-top: 143px;
+    margin-left: 169px;
+    font-size: 38px;
+    width: 206px;
+    border: 3px solid;
+    border-radius: 33px;
+}
+   
